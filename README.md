@@ -1,49 +1,44 @@
 # 👋 Hello, I'm Sayed! 
 
-🚀 **Full Stack Developer | AI Engineer | DevOps Enthusiast**  
-🔧 7+ Years of Experience | Passionate about building intelligent systems and robust web platforms.
+🚀 **Firmware & IoT Developer | Embedded Systems | AI on the Edge**
+
+🔧 7+ Years Experience | Building smart, connected systems from the ground up.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a results-driven developer with a deep love for solving real-world problems using technology.  
-With 7 years in IT, I've worked across full-stack web development, AI/ML, DevOps, and automation.  
-From backend APIs to deploying MLOps pipelines and AI agents, I build solutions that scale and perform.
+I specialize in firmware and IoT development, creating reliable embedded solutions that connect the physical and digital worlds.  
+From low-level microcontroller code to cloud integration and custom dashboards, I bring ideas to life — from prototype to deployment.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Main Stack & Skills
 
-### 💻 Languages & Frameworks
-- **Frontend**: React, Next.js, JavaScript, TypeScript, HTML, CSS
-- **Backend**: Python, Flask, Django, Node.js
-- **AI/ML**: OpenAI, LangChain, Scikit-learn, TensorFlow, PyTorch, LLMs
-- **IoT**: Raspberry Pi, Edge AI
-- **Automation**: n8n, CI/CD (GitHub Actions, GitLab), Shell scripting
+### 🟢 Core IoT & Firmware
 
-### 🛠 DevOps & MLOps
-- Docker, Nginx, Ubuntu, GitHub Actions, DigitalOcean, Systemd
-- MLFlow, FastAPI for model serving, deployment pipelines
+- **Platforms:** ESP32, STM32, Raspberry Pi, Arduino
+- **Firmware:** C/C++, MicroPython, CircuitPython
+- **Connectivity:** MQTT, BLE, LoRa, Zigbee, Wi-Fi
+- **Cloud Integration:** ThingsBoard, Node-RED, REST APIs
+- **On-device AI:** TensorFlow Lite, Edge AI for local intelligence
+- **Optimization:** Power, cost, and performance tuning
 
-### 🧰 Tools & Platforms
-- Git, VS Code, Postman, Figma, Redis, MariaDB, Prisma, Linux, Firebase, Netlify
+### 🛠 Supplementary Tools
+
+- **Dashboards & APIs:** React, Node.js, Python, low-code tools
+- **Automation:** n8n, simple CI/CD (GitHub Actions)
+- **Prototyping:** Breadboards, sensors, custom PCBs
 
 ---
 
 ## 🧩 Recent Interests
 
-- 🤖 AI Agents & LLM-powered platforms  
-- 📦 Full-stack AI SaaS products  
-- ⚙️ Edge computing with Raspberry Pi  
-- 🔁 CI/CD + MLOps automation  
-- 🧬 AI + n8n for workflow orchestration
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: sayedtaban8@gmail.com
+- 🧠 Smarter edge & on-device AI  
+- 📊 Real-time monitoring with custom dashboards  
+- ⚡ Energy-efficient IoT deployments  
+- 🔗 Seamless cloud + device integration  
+- 🔁 Automated IoT workflows
 
 ---
 
@@ -53,4 +48,4 @@ From backend APIs to deploying MLOps pipelines and AI agents, I build solutions 
 
 ---
 
-⭐️ *Feel free to check out my repositories or reach out if you want to collaborate on AI, automation, or full-stack dev projects!*
+⭐️ *Check out my repositories or reach out if you want to collaborate on IoT, embedded AI, or smart device projects!*
